@@ -9,5 +9,5 @@ It was made by [@Jinjerana](https://github.com/Jinjerana) in collaboration with 
 For DataBase was used MongoDB.
 
 Backend has Swagger documentation, created by [@Jinjerana](https://github.com/Jinjerana), which includes all endpoints and its description.
-Swagger documentation is located at server: https://trackerwaterapp.onrender.com/
+Swagger documentation is located at server: [https://trackerwaterapp.onrender.com/](https://trackerwaterapp.onrender.com/api-docs/)https://trackerwaterapp.onrender.com/api-docs/
 
